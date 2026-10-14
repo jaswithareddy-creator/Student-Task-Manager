@@ -11,7 +11,7 @@ The Student Task Manager is a web application that helps students manage their d
 The main objective is to help students organize their work, complete tasks on time, and improve time management.
 
 ### 3\. Technologies Used
-* Frontend: HTML, CSS, JavaScript, React
+* Frontend: HTML, CSS, JavaScript
 * Backend: Node.js, Express.js
 * Database: MongoDB
 
@@ -26,9 +26,7 @@ The main objective is to help students organize their work, complete tasks on ti
 ### 5\. How It Works
 
 Frontend-->HTML, CSS, React
-
 Backend-->Node.js, Express.js
-
 The student adds a task through the frontend. The backend processes the request, and the database stores the task details. The student can later view, edit, complete, or delete the task.
 
 ### 6\. Advantages
